@@ -1,0 +1,77 @@
+Processing images: 0 of 2000
+Processing images: 100 of 2000
+Processing images: 200 of 2000
+Processing images: 300 of 2000
+Processing images: 400 of 2000
+Processing images: 500 of 2000
+Processing images: 600 of 2000
+Processing images: 700 of 2000
+Processing images: 800 of 2000
+Processing images: 900 of 2000
+Processing images: 1000 of 2000
+Processing images: 1100 of 2000
+Processing images: 1200 of 2000
+Processing images: 1300 of 2000
+Processing images: 1400 of 2000
+Processing images: 1500 of 2000
+Processing images: 1600 of 2000
+Processing images: 1700 of 2000
+Processing images: 1800 of 2000
+Processing images: 1900 of 2000
+------ 100% images processed ------
+Processing images: 0 of 1000
+Processing images: 100 of 1000
+Processing images: 200 of 1000
+Processing images: 300 of 1000
+Processing images: 400 of 1000
+Processing images: 500 of 1000
+Processing images: 600 of 1000
+Processing images: 700 of 1000
+Processing images: 800 of 1000
+Processing images: 900 of 1000
+------ 100% images processed ------
+Cost at iteration 0: 0.6931330100731719
+Cost at iteration 99: 0.6784969659733191
+Learning rate modified at 116: 0.045000000000000005
+Learning rate modified at 117: 0.04050000000000001
+Learning rate modified at 119: 0.03645000000000001
+Learning rate modified at 122: 0.03280500000000001
+Learning rate modified at 123: 0.02952450000000001
+Learning rate modified at 124: 0.02657205000000001
+Learning rate modified at 126: 0.02391484500000001
+Learning rate modified at 128: 0.021523360500000012
+Learning rate modified at 130: 0.01937102445000001
+Learning rate modified at 142: 0.01743392200500001
+Learning rate modified at 160: 0.015690529804500006
+Learning rate modified at 180: 0.014121476824050006
+Cost at iteration 199: 0.6568166466491812
+Learning rate modified at 202: 0.012709329141645007
+Learning rate modified at 228: 0.011438396227480507
+Learning rate modified at 256: 0.010294556604732457
+Learning rate modified at 290: 0.00926510094425921
+Cost at iteration 299: 0.6426854481320711
+Learning rate modified at 326: 0.00833859084983329
+Learning rate modified at 372: 0.007504731764849962
+Cost at iteration 399: 0.6313138527843392
+Learning rate modified at 420: 0.006754258588364966
+Learning rate modified at 478: 0.00607883272952847
+Cost at iteration 499: 0.6214607832863496
+Learning rate modified at 542: 0.005470949456575623
+Cost at iteration 599: 0.6126613087998641
+Learning rate modified at 616: 0.0049238545109180605
+Cost at iteration 699: 0.6049125830242481
+Learning rate modified at 701: 0.004431469059826255
+Learning rate modified at 798: 0.0039883221538436296
+Cost at iteration 799: 0.5975288082131349
+Cost at iteration 899: 0.5902774938383731
+Learning rate modified at 910: 0.003589489938459267
+Cost at iteration 999: 0.5837299817353876
+--- Predict sur training examples in db ---
+Success: 1433/2000
+Succes rate: 71.65
+--- Predict sur test ----------------------
+Success: 569/1000
+Succes rate: 56.9
+----------
+Success: 586/1000
+Succes rate: 58.6
